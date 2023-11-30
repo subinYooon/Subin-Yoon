@@ -2,7 +2,7 @@
 
 ## Monster Game
 
-Monster game은 몬스터가 가진 랜덤한 숫자를 맞추어 몬스터를 잡는 게임입니다.
+####Monster game은 몬스터가 가진 랜덤한 숫자를 맞추어 몬스터를 잡는 게임입니다.
 
 
 ### Set UP
